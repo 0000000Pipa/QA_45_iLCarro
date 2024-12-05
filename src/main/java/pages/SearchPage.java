@@ -22,4 +22,8 @@ public class SearchPage extends BasePage {
         btnSignUp.click();
 
     }
+
+    public void clickBtnLogin(){
+        btnLogin.click();
+    }
 }
